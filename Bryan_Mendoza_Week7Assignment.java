@@ -1,5 +1,5 @@
 /*Bryan Mendoza  
- * This program will run a football simulation scores and allow you to generate scores using random numbers stored in two dimensional arrays.  
+ * This program will run a football simulation scores and allow you to generate scores using random numbers stored in two dimensional arrays.   
  */
 import java.util.Scanner;
 import java.util.Random;
